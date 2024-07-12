@@ -27,7 +27,7 @@ Protonia is a multiplayer online RPG where players can create and customize game
 
 ### Game Characters
 
-![Male Avatar](images/botCharacter.png)
+![Male Avatar](images/botChar.png)
 ![Female Avatar](images/fireman.png)
 
 - Each character in Protonia is an NFT with unique attributes and abilities.
