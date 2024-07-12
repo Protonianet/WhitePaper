@@ -1,11 +1,25 @@
 # Protonia Game Ecosystem
 
+## Navigation
+
+- [Introduction](#introduction)
+- [Game Overview](#game-overview)
+- [Core Features](#core-features)
+  - [Game Characters](#game-characters)
+  - [Duels](#duels)
+- [Smart Contracts](#smart-contracts)
+- [Tokenomics](#tokenomics)
+- [Roadmap](#roadmap)
+- [Security and Transparency](#security-and-transparency)
+- [Community and Governance](#community-and-governance)
+- [Conclusion](#conclusion)
+
+
 ## Introduction
 
 Welcome to Protonia, a groundbreaking decentralized gaming ecosystem that merges the excitement of strategic role-playing games (RPG) with the security and transparency of blockchain technology. Protonia is designed to provide an immersive gaming experience where players can own, trade, and upgrade unique game characters, participate in duels, and engage with a vibrant community. Our mission is to revolutionize the gaming industry by leveraging the power of blockchain to create a fair, transparent, and player-centric environment.
 
 ## Game Overview
-![Protonia Logo](images/logo.png)
 
 Protonia is a multiplayer online RPG where players can create and customize game characters, engage in duels, and compete on leaderboards. The game utilizes blockchain technology to ensure that each character is a unique, non-fungible token (NFT), providing true ownership and the ability to trade characters on secondary markets.
 
